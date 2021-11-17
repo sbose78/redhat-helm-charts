@@ -1,7 +1,7 @@
 # Red Hat Helm Charts
 This repository contains the charts are populated out-of-the-box in the OpenShift Developer Catalog
 
-The repository has been configured to serve the static helm index and chart files
+The repository has been configured to serve the static helm index and chart files.
 
 ## Usage
 
